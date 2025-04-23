@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
